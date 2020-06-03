@@ -33,6 +33,7 @@ https://github.com/awslabs/amazon-kinesis-agent
 https://github.com/awslabs/amazon-kinesis-client
 
 https://aws.amazon.com/blogs/big-data/implementing-efficient-and-reliable-producers-with-the-amazon-kinesis-producer-library/
+https://docs.aws.amazon.com/streams/latest/dev/developing-consumers-with-kcl.html
 
 Work Out:
 https://www.youtube.com/watch?v=yOFVrHoOgLo
