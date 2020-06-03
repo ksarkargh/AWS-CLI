@@ -15,7 +15,11 @@ sudo sed -i s/\$releasever/6/g /etc/yum.repos.d/epel-apache-maven.repo
 Then you can use yum to install Maven.
 
 sudo yum install -y apache-maven
-The Gremlin libraries require Java 8. Enter the following to install Java 8 on your EC2 instance.
+
+once it is installed you can verify by the following command:
+mvn --version
+
+For Java 8. Enter the following to install Java 8 on your EC2 instance.
 
 sudo yum install java-1.8.0-devel
 Enter the following to set Java 8 as the default runtime on your EC2 instance.
